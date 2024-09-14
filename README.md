@@ -4,5 +4,5 @@ The project presents the application to calculate the coordinates (x, y) of the 
 # Used technologies
 The project is based on Java.
 
-# Example visualisation
+# Example visualization
 [Example](blocks-example.png)
